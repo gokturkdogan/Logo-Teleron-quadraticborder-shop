@@ -1,0 +1,89 @@
+body {
+    background-color: #202020;
+}
+
+.container {
+    margin: 300px;
+}
+
+.logo {
+    display: flex;
+}
+
+.tele {
+    background-color: #00A19B;
+    width: 440px;
+    height: 150px;
+}
+
+.letterT {
+    position: absolute;
+    width: 90px;
+    left: 330px;
+    top: 332px;
+}
+
+.letterE {
+    position: absolute;
+    left: 430px;
+    width: 90px;
+    top: 330px;
+}
+
+.letterL {
+    position: absolute;
+    left: 530px;
+    width: 90px;
+    height: 78px;
+    top: 338px;
+}
+
+.letterE2 {
+    position: absolute;
+    left: 630px;
+    width: 90px;
+    top: 330px;
+}
+
+.ron {
+   
+    width: 350px;
+}
+
+.letterR {
+    width: 96px;
+    position: absolute;
+    right: 652px;
+    top: 330px;
+
+}
+
+.letterO {
+    width: 95px;
+    height: 90px;
+    position: absolute;
+    right: 552px;
+    top: 330px;
+    border-radius: 100px;
+
+}
+
+.letterN {
+    width: 93px;
+    position: absolute;
+    right: 447px;
+    top: 333px;
+}
+
+span{
+    color: #FFF;
+    font-family: 'Ubuntu';
+    position: absolute;
+    top: 420px;
+    right: 453px;
+    background-color: red;
+    border-radius: 15px;
+    padding: 3px 6px;
+    font-size: 0.7rem;
+    font-weight: 600;
+}
